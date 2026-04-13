@@ -1,4 +1,4 @@
-# NutriMap — Food Vulnerability Dashboard
+# NutriMap : Food Vulnerability Dashboard
 
 **NourishNet 2026 Challenge · Team NutriHog of Ozark · University of Arkansas**
 
