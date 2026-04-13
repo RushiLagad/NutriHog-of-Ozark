@@ -1,6 +1,6 @@
-# NutriMap — Food Vulnerability Dashboard
+# NutriMap: Food Vulnerability Dashboard
 
-**NAFSI × NourishNet Student Data Challenge 2026 | Track 2: NourishNet**  
+**NAFSI - NourishNet Student Data Challenge 2026 | Track 2: NourishNet**  
 **Team: NutriHog of Ozark | University of Arkansas, Fayetteville**
 
 ---
